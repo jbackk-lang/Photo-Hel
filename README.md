@@ -39,4 +39,23 @@ Model Λ–τ–ρ definiuje pełny zestaw 8 właściwości fotonu:
 1. **Częstotliwość ν** — gęstość skrętu, energia fotonu.  
 2. **Długość fali λ** — rozciągnięcie helisy.  
 3. **Spin** — kierunek skrętu (helicity).  
-4. **Polaryzacja**
+4. **Polaryzacja** — orientacja helisy (τ).  
+5. **Faza** — pozycja w obiegu (ρ).  
+6. **Pęd p** — kierunkowy przepływ skrętu.  
+6.5. **Moment przejścia τ\*** — operator falowo‑cząsteczkowy: kompresja helisy z obiegu 64 (fala) do obiegu 1 (cząstka).  
+7. **Energia E** — napięcie skrętu (E = hν).  
+8. **Kierunek propagacji** — geometria Λ.
+
+## 6. Interpretacja
+Photo‑Hel jest językiem strukturalnym do opisu:
+- rezonansu,
+- zgodności fazowej,
+- progów transformacji,
+- relacji foton ↔ hel,
+- emergencji stanu,
+- topologii informacji.
+
+Model nie opisuje fizyki eksperymentalnej — jest narzędziem pojęciowym.
+
+## Licencja
+MIT License
