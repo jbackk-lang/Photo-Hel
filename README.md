@@ -1,101 +1,42 @@
-# Photo‑Hel — Koncepcyjny Model Interakcji Foton ↔ Hel
+# Photo‑Hel — Model Interakcji Foton ↔ Hel  
+Framework Λ–τ–ρ | Model koncepcyjny | 2026
 
-**Photo‑Hel** opisuje symboliczny model interakcji między fotonem  
-a atomem helu w ramach frameworku Λ–τ–ρ.  
-Repozytorium nie przedstawia fizyki eksperymentalnej,  
-lecz **język pojęciowy**, w którym:
+Photo‑Hel to koncepcyjny model opisujący, jak foton — rozumiany jako otwarta helisa informacji — wchodzi w rezonans z atomem helu, który pełni rolę stabilnego nośnika stanu.  
+Model nie jest fizyką eksperymentalną, lecz językiem strukturalnym do opisu transformacji, rezonansu i emergencji stanu.
 
-- foton jest **helisą informacji**,  
-- hel jest **nośnikiem stanu**,  
-- zmiana stanu jest **przekroczeniem progu strukturalnego**,  
-- rezonans jest **zgodnością fazową**.
+## 1. Założenia
+Hel jest traktowany jako idealny nośnik stanu dzięki trzem stabilnym poziomom:
+- He  
+- He⁺  
+- He²⁺  
+W modelu są to progi transformacji τ, a nie fizyczne energie jonizacji.
 
-To **framework koncepcyjny**, nie teoria naukowa.
+## 2. Foton jako operator zmiany
+Foton jest otwartą helisą skrętu.  
+Niesie informację poprzez:
+- skręt (helicity),
+- fazę,
+- widmo częstotliwości,
+- orientację (polaryzację),
+- kierunek propagacji.
 
----
+Skręt = geometria informacji.  
+Helisa = nośnik orientacji.
 
-## 1. Założenia modelu (ujęcie symboliczne)
+## 3. Widmo i czas
+Foton posiada widmo boczne (harmoniczne), które decyduje o zgodności z progiem transformacji helu.  
+Czas jest traktowany jako struna helisy — parametr zgodności fazowej i rezonansu.
 
-Model pracuje na **atomie helu jako idealnym nośniku stanu**,  
-ponieważ hel jest:
+## 4. Hel jako nośnik stanu
+Hel pełni trzy funkcje:
+1. Medium testowe (stabilne, powtarzalne).  
+2. Odbiorca fotonu (przekroczenie progu τ).  
+3. Stabilizator informacji (stany logiczne He / He⁺ / He²⁺).
 
-- prosty,  
-- stabilny,  
-- nie reaguje chemicznie,  
-- ma trzy wyraźne poziomy stanu:  
-  - He  
-  - He⁺  
-  - He²⁺  
+## 5. Osiem właściwości fotonu
+Model Λ–τ–ρ definiuje pełny zestaw 8 właściwości fotonu:
 
-W modelu są to **trzy poziomy logiczne**,  
-a nie stany fizyczne.
-
----
-
-## 2. Foton jako operator zmiany stanu
-
-W tym frameworku foton nie jest punkowym kwantem energii,  
-lecz **strukturą topologiczną**:
-
-### **2.1. Foton jako helisa**  
-Foton ma:
-
-- kierunek,  
-- skręt (helicity),  
-- fazę,  
-- amplitudę,  
-- widmo częstotliwości.
-
-W modelu:
-
-- **skręt = geometria informacji**,  
-- **helisa = nośnik orientacji**.
-
-(Źródło: opis helisy fotonu )
-
----
-
-### **2.2. Foton jako widmo**  
-Każdy foton ma widmo boczne (harmoniczne),  
-które decyduje o tym, czy trafi w próg zmiany stanu.
-
-Widmo jest **sygnaturą fotonu**  
-(Źródło: opis widma fotonu )
-
----
-
-### **2.3. Czas jako struna**  
-W modelu czas nie jest linią, lecz **struną helisy fotonu**,  
-co pozwala opisywać:
-
-- rezonans,  
-- zgodność fazową,  
-- emergencję stanu.
-
-(Źródło: czas jako struna )
-
----
-
-## 3. Hel jako nośnik stanu
-
-Hel pełni trzy role:
-
-### **3.1. Medium testowe**  
-Stabilny, powtarzalny, idealny do modelowania  
-(Źródło: rola helu jako medium )
-
-### **3.2. Odbiorca fotonu**  
-Foton zmienia stan helu poprzez przekroczenie progu  
-(Źródło: opis zmiany stanu helu )
-
-### **3.3. Stabilizator informacji**  
-Stany He / He⁺ / He²⁺ są trwałe i powtarzalne  
-(Źródło: stabilność helu )
-
----
-
-## 4. Progi strukturalne (symboliczne)
-
-W oryginalnym modelu progi były energiami jonizacji.  
-W wersji koncepcyjnej są to **progi transformacji τ**,  
-czyli momenty, w których struktura zmienia klas
+1. **Częstotliwość ν** — gęstość skrętu, energia fotonu.  
+2. **Długość fali λ** — rozciągnięcie helisy.  
+3. **Spin** — kierunek skrętu (helicity).  
+4. **Polaryzacja**
