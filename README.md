@@ -1,3 +1,8 @@
+## 🔗 Wszystkie modele i repozytoria
+Pełna lista projektów znajduje się na stronie:
+https://jbackk-lang.github.io
+---
+
 # Photo‑Hel — Model Interakcji Foton ↔ Hel  
 Framework Λ–τ–ρ | Model koncepcyjny | 2026
 
